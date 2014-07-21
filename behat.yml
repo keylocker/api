@@ -1,0 +1,10 @@
+---
+default:
+  suites:
+    api_features:
+      formatter:
+      name: pretty
+      contexts: [ ApiContext ]
+      paths:
+        features: %paths.base%/features
+        bootstrap: %paths.base%/features/bootstrap

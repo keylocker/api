@@ -1,0 +1,8 @@
+---
+suites:
+  api:
+    namespace: Keylocker\Api
+    src_path: src/
+    spec_path: test/specs
+
+formatter.name: pretty

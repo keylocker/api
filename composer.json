@@ -1,0 +1,22 @@
+{
+  "name":                 "keylocker/api",
+  "description":          "SSH key management as a service",
+  "minimum-stability":    "dev",
+  "license":              "Proprietary",
+  "homepage":             "https://github.com/keylocker/api",
+  "type":                 "library",
+  "authors": [
+    {
+      "name":     "Barney Hanlon",
+      "email":    "barney@shrikeh.net"
+    }
+  ],
+  "require-dev": {
+    "behat/behat": "3.0.*@dev",
+    "phpspec/phpspec": "2.0.*@dev"
+  },
+  "config": {
+    "bin-dir": "bin"
+  },
+  "autoload": {"psr-4": {"Keylocker\\Api\\": "src/"}}
+}
