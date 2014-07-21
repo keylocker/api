@@ -3,19 +3,19 @@
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQIcBAABAgAGBQJTzQdiAAoJEE4AEBkkrX9/g+sP/2TB86n9nTLahzErkrJvLLg8
-3q6XBBWSa+BXsSy6C6j+1yWjw06XIIkD8RYzzu0eB0S7Jgb63OlpxoqFB5LpIvYF
-ytDnPPqfVpWK4qvP7eIvUhJrBeGsCm+A6Pvn98TxNmZpJ1KquJwTYGqtUhWBJ6Bc
-ZUaFft9zuT/qT3UXKuRQvHzK9jQWnes0j46NuPiRFGLbHdsa06p2t6lOiOWy5A9Y
-Ig51t7+j6GhB5tRHaklgE7cf41Ftg/mhTtbMlcpUVOd/RFufB2G8FWgbGDuJvMFH
-i0UF9gqaEG1rSXqlxAYFlpDta9l9ua5w6jtNFMorwaYlvKmPR3c01NsqDAM+8scK
-tPOU1CHNkot69IeDGVrwrqdbvgBomeeToqdzyGFhI9LMJoD2+C+eoHGKnSnsXLGt
-HTvZwkxadDch6KCJ4tja3fce73pDZdsmoURoWVClIQkdeNNevXFmW8UhgkbmYZVG
-b5Mpw1f1EFDnTZyeNVtVq7S50sZRf02+abfuOWal9YmYCJKXxurLgUkPRNawrgwW
-LWioimGSB/cD8BUD6rRcNUEtA/hm+zsdZH/HUCTfdTnkc9RgWpUYbOKR17KFWwHJ
-DTgAn9EzoMx/mYVVhkIdirx3HSWeOf5Vq6FlZDz/NZV26girfJXFnSxCRa+bDTue
-N82gyEWCd1sLSOpUbU7X
-=oSYv
+iQIcBAABAgAGBQJTzRRYAAoJEE4AEBkkrX9/njYP/iujfeXrNcPR16hYgj9opfh4
+rzg2llq4AjcbliKBJKhAHaBBrmW3RuepKFy99H0FpbPN+huUgWe3h+mbluidQMBF
+c/N0y6SVrDo6sgNd5MaceJ+/7TDoIblKi6sQyBnkP4CJn1gZjc1/iuMr44/38dXE
+qu/xaM6lPNDVNCyzYPFgKyjxqBiLqrBqViTrGQ8Hm7I+UEl4T5ImDtw7PoHvLUGp
+EmWfxA4sr+65twEEX8cK/5ySP5XLsx8KKMHL+VNZThBr9lPC2DyNUr3ChggbiPnQ
+j2UVu+LnLhC/rXNSEnUd2QI1/gE7TBK2f2zrJxjvHpeGTEG8SigtKsU6HX9Mo4E3
+3ASHKtNxX4/y5nnMaTTNN/Idp4OEDRY+F/a5T4gX27gEFfthAMcw8dObrZvakqc/
+kaBdM+9IcSHxs+0qHrvduowVlqcKw2WIf39595ZqDyUhIbtLBUS4CES9T5v8Lckl
+zeiv3XpoUnc1ftPTaptwDZwvy8Qr9NBo9KFTTJ2Wn7h8F1bvb+58iEu6jItKbRYk
+rxcWruR2X9Ci7B0N4xbdoRej5dZY1ziRqWslmtjpncxBhdtE795ZfV1l0JjJ1O+n
+BPWJoAEGl9aj+VUYNKHFj8MoTOAMXf/4wo8WXLrkRj0+jcDbU2ETm+z37ofwzzRA
+pAbVa2rLNs6Y7S1oVm/c
+=s8An
 -----END PGP SIGNATURE-----
 
 ```
@@ -30,7 +30,8 @@ N82gyEWCd1sLSOpUbU7X
 size   exec  file                    contents                                                        
              ./                                                                                      
 11             .gitignore            e02f70856647881c22afcee6359eacfc719eacd187de560878d75420ff015ed8
-8              README.md             96a4cc553879f5d9d721b03304d8283720e1ad77d747f249fbf2a50667f76aee
+75             .travis.yml           d130abd108337253f2b8424fb736b1567e5ce0ec04d3b27120442a7cd3984d35
+29             README.md             baaee3d807c069c441fe7b3206a1ef8733fe2f8dd15054f7a210e5f6a66961f2
 1086           apiary.apib           6581521b544f74a58774a2e15c68182650c1ed6ffa9f46b1b6d4dd64a72a0328
 221            behat.yml             b9d5f0d79f423f305e12fd1d3d3a6bd4241550e3c62a58ccc73d872f8256376c
 572            composer.json         c5dd18b81d3bed542e24b84e068db60c4686d7a82e007df2b1fd45dd2b3c8ea9
